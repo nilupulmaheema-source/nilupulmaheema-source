@@ -1,15 +1,13 @@
-### Hi, I'm Nilupul. 👋
-**Visual Storyteller | Electronic Engineer**
+# Hi, I'm Nilupul. 👋
+### Electronic Engineer | Pre-Sales & DevOps Specialist | AI Builder
 
-I use engineering logic to control creative AI tools.
-
-Coming from a background in Electronics and Pre-Sales, I don't just "write" prompts—I build them like code. I treat Generative AI as a system with parameters that need to be tuned, not just a magic box. My goal is to get consistent, specific results that match a client's brief, rather than just random pretty images.
+I am an engineer who builds tools to solve business problems—whether that's automating sales data, deploying cloud infrastructure, or generating visual narratives.
 
 **My Stack:**
-* **Tech:** Python, Machine Learning, Automation
-* **GenAI:** Midjourney, DALL-E 3, Kling AI (Video), Stable Diffusion
-* **Focus:** Character Consistency, Narrative Sequencing, Prompt Logic
+* **Infrastructure:** Docker, Linux (LAMP Stack), Azure Stack Hub
+* **Automation:** Python (Data Processing & API Scripting)
+* **Generative AI:** Building workflows for consistency in Midjourney & LLMs
 
-**Why an Engineer for Creative Work?**
-* **I understand "Computer Vision":** My research on autonomous drones (using YOLO models) taught me how machines interpret images. I know how to speak the model's language to get the composition I want.
-* **I build what clients actually need:** In my previous role at Tyax, my job was translating vague customer requests into precise technical Bills of Materials. I do the same thing here: translating vague creative ideas into precise visual outputs.
+**Why an Engineer for Business & Creative Work?**
+* **I Build Infrastructure:** My background at **Sri Lanka Telecom** taught me how to deploy scalable systems using Docker and Linux.
+* **I Automate Workflows:** In Pre-Sales at Tyax, I write Python scripts to automate the boring parts of the sales cycle.
